@@ -1,0 +1,12 @@
+Sample_Component{#x;#y}[rn]
+<Entity>
+<Entity X={{x}} Y={{y}} W='32' H='32'>
+<MyImage CycleLength='32'>
+<ImageFrames>
+<ImageFrame DelimitedGrid='0,0,0,0;1,1,1,1;0,0,0,0;' HexCSVKey='FF0000,00FF00'>
+</ImageFrame>
+<ImageFrame DelimitedGrid='0,0,0,0;1,1,1,1;0,0,0,0;' HexCSVKey='00FF00,FF0000'>
+</ImageFrame>
+</ImageFrames>
+</MyImage>
+</Entity>
